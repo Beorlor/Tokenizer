@@ -4,6 +4,8 @@
 
 **MyToken42** est un token compatible avec le standard BEP-20, déployé sur le **BNB Testnet**. Ce projet a été développé en utilisant **Solidity**, la bibliothèque **OpenZeppelin**, et déployé via **Remix**. Le projet inclut des fonctionnalités standards des tokens BEP-20 ainsi que des améliorations telles que le mint, le burn, et un système multisignature pour les actions critiques.
 
+OpenZeepplin Owner
+
 ## TODO
 
 Trouver une strategie de mint qui ressemble a de vrai token
